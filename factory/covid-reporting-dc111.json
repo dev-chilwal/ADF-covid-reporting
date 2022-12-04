@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-dc111",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1083d987-b109-4833-9024-5a054a2181a7",
+		"tenantId": "402ec70c-1d66-491a-b0c3-e376588f775d"
+	}
+}
